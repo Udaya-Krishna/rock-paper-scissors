@@ -79,7 +79,7 @@ function playGame(playerMove){
     =`You
 <img src="images/${playerMove}-emoji.png" class="move-icon">
 <img src="images/${computerMove}-emoji.png" class="move-icon">
-Compute`;
+Computer`;
 
 
     
